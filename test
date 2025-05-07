@@ -1,5 +1,5 @@
 {
-  "autoShowEnabled": false,
+  "autoShowEnabled": true,
   "autoShowType": "info",
   "success": { "enabled": false, "message": "Developed By Ali https://t.me/androidmod_ar!", "duration": 2000 },
   "error":   { "enabled": false, "message": "Oops error!", "duration": 3000 },
