@@ -4,5 +4,5 @@
   "success": { "enabled": true, "message": "Developed By AHMED AR ", "duration": 2000 },
   "error":   { "enabled": false, "message": "Oops error!", "duration": 3000 },
   "warning": { "enabled": true, "message": "Careful!", "duration": 2500 },
-  "info":    { "enabled": false, "message": "Heads up!", "duration": 1800 }
+  "info":    { "enabled": false, "message": "Developed By AHMED AR💙", "duration": 1800 }
 }
