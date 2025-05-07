@@ -2,7 +2,7 @@
   "autoShowEnabled": true,
   "autoShowType": "info",
   "success": { "enabled": true, "message": "Developed By AHMED AR ", "duration": 2000 },
-  "error":   { "enabled": false, "message": "Oops error!", "duration": 3000 },
+  "error":   { "enabled": true, "message": "Oops error!", "duration": 3000 },
   "warning": { "enabled": true, "message": "Careful!", "duration": 2500 },
-  "info":    { "enabled": false, "message": "Developed By AHMED AR💙", "duration": 1800 }
+  "info":    { "enabled": true, "message": "Developed By AHMED AR💙", "duration": 1800 }
 }
