@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "5.1",
+  "versionCode": 6.19.6,
+  "versionName": "6.19.6",
   "apkSize": 9,
-  "enabledDark": false,
+  "enabledDark": true,
   "forceUp": false,
   "whatIsNew": [
     "Performance improved and some bugs fixed.",
