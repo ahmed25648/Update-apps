@@ -3,7 +3,7 @@
   "versionName": "6.19.7",
   "apkSize": 9,
   "enabledDark": true,
-  "forceUp": true,
+  "forceUp": false,
   "whatIsNew": [
     "Performance improved and some bugs fixed.",
     "Android 14 support",
