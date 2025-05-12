@@ -1,1 +1,14 @@
-ت
+{
+  "versionCode": 26190607,
+  "versionName": "6.19.6",
+  "apkSize": "23.37 ميجابايت",
+  "enabledDark": true,
+  "forceUp": false,
+  "whatIsNew": [
+    "✦ تم فتح مزايا البريميوم",
+    "✗ حذف جميع الاعلانات",
+    "⌘ اضافة التحميل من داخل التطبيق",
+    "✓ بعد اكتمل التحميل اذهب الى مجلد التنزيلات وقم بتثبيت التحديث"
+  ],
+  "apkUrl": "https://www.dropbox.com/scl/fi/xdt60i7ysf0tmn87h6wzq/Lark-Player6.19.6.apk?rlkey=8nswguasahfvrkp14462dwtwx&st=ghnms61n&dl=1"
+}
