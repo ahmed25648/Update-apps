@@ -1,8 +1,14 @@
 {
-  "autoShowEnabled": true,
-  "autoShowType": "info",
-  "success": { "enabled": true, "message": "Developed By AHMED AR ", "duration": 2000 },
-  "error":   { "enabled": true, "message": "Oops error!", "duration": 3000 },
-  "warning": { "enabled": true, "message": "Careful!", "duration": 2500 },
-  "info":    { "enabled": true, "message": "Developed By AHMED AR💙", "duration": 1800 }
+  "versionCode": 2147483647,
+  "versionName": "20.20.37",
+  "apkSize": "104.98 ميجابايت",
+  "enabledDark": true,
+  "forceUp": false,
+  "whatIsNew": [
+    "✦ تم فتح مزايا البريميوم",
+    "✗ حذف جميع الاعلانات",
+    "⌘ اضافة التحميل من داخل التطبيق",
+    "✓ بعد اكتمل التحميل اذهب الى مجلد التنزيلات وقم بتثبيت التحديث"
+  ],
+  "apkUrl": "https://www.dropbox.com/scl/fi/yjagkcttfvtzmaa1b48nw/YouTube-Premium20.20.37.apk?rlkey=r3f0kosnnagui8oz3ida0fi91&st=cn4mhfmh&dl=1"
 }
