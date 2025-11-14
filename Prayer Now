@@ -1,38 +1,35 @@
 {
-  "show": true,
-  "title": "New Version Available 🛸",
-  "version": "1.1",
-  "headline": "Version 1.1 Out Now!  NEW",
-  "description": "Step into the future of design with neon glow & glass effect UI.",
-  "force": false,
-  "minVersion": "",
-  "credit": "MR. NoOB",
-  "features": [
-    "• Neon-glow glassmorphism interface ✨",
-    "• Hyper-responsive animations ⚡",
-    "• Polished futuristic dark mode 🌛",
-    "• Premium-grade performance boost 🚀"
-  ],
-  "trial": {
-    "enabled": true,
-    "text": "🔮 24H اخفاء",
-    "minutes": 1440
-  },
-  "update": {
-    "text": "🔺Update Now",
-    "url": "https://play.google.com/store/apps/details?id=com.example"
-  },
-  "colors": {
-    "bgStart": "#0A0F1E",
-    "bgEnd": "#1E293B",
-    "border": "#3B82F6",
-    "accent": "#06B6D4",
-    "highlight": "#A855F7",
-    "muted": "#64748B",
-    "divider": "#334155",
-    "textPrimary": "#E0F2FE",
-    "textSecondary": "#93C5FD",
-    "buttonTrial": "#475569",
-    "buttonUpdate": "#2563EB"
-  }
+"show": true,
+"title": "Update Dialog v12",
+"version": "1.1",
+"headline": "Version 1.1 Out Now!  NEW",
+"description": "Exciting new features available!",
+"force": false,
+"minVersion": "",
+"credit": "MR. NoOB",
+"features": [
+"• Bug fixes and performance improvements",
+"• New user interface",
+"• Premium dark mode support"
+],
+"trial": {
+"enabled": true,
+"text": "60 Min Trial",
+"minutes": 60
+},
+"update": {
+"text": "UPDATE",
+"url": "https://play.google.com/store/apps/details?id=com.example"
+},
+"colors": {
+"bgStart": "#1F2937",
+"bgEnd": "#374151",
+"border": "#4B5563",
+"accent": "#60A5FA",
+"muted": "#9CA3AF",
+"divider": "#4B5563",
+"textPrimary": "#F9FAFB",
+"textSecondary": "#D1D5DB",
+"buttonTrial": "#6B7280"
+}
 }
