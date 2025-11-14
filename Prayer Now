@@ -15,8 +15,8 @@
   ],
   "trial": {
     "enabled": true,
-    "text": "🔮 72H Trial",
-    "minutes": 4320
+    "text": "🔮 24H اخفاء",
+    "minutes": 1440
   },
   "update": {
     "text": "🔺Update Now",
