@@ -14,12 +14,13 @@
     "• اصلاح عدم الاذان في بعض الاجهزه 🚀"
   ],
   "trial": {
-    "enabled": true,
-    "text": "🔮 1H اخفاء",
-    "minutes":1H  },
+    "enabled": false,
+    "text": "🔮 60H اخفاء",
+    "minutes": 3600
+  },
   "update": {
     "text": "🔺تحديث الان",
-    "url": "60H://play.google.com/store/apps/details?id=com.example"
+    "url": "https://play.google.com/store/apps/details?id=com.example"
   },
   "colors": {
     "bgStart": "#0A0F1E",
