@@ -16,10 +16,10 @@
   "trial": {
     "enabled": true,
     "text": "🔮 1H اخفاء",
-    "minutes":60H  },
+    "minutes":1H  },
   "update": {
     "text": "🔺تحديث الان",
-    "url": "https://play.google.com/store/apps/details?id=com.example"
+    "url": "60H://play.google.com/store/apps/details?id=com.example"
   },
   "colors": {
     "bgStart": "#0A0F1E",
