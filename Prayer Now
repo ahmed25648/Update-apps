@@ -1,38 +1,14 @@
 {
-  "show": true,
-  "title": "New Version Available 🛸",
-  "version": "1.1",
-  "headline": "Version 1.1 Out Now!  NEW",
-  "description": "Step into the future of design with neon glow & glass effect UI.",
-  "force": false,
-  "minVersion": "",
-  "credit": "AHMED",
-  "features": [
-    "• تم تعديل التطبيق وحذف الاعلانات ✨",
-    "• فتح جميع مزايا البريميوم  ⚡",
-    "• حذف الملفات واللغات الاضافيه 🌛",
-    "• اصلاح عدم الاذان في بعض الاجهزه 🚀"
+  "versionCode": 26190607,
+  "versionName": "6.19.6",
+  "apkSize": "23.37 ميجابايت",
+  "enabledDark": true,
+  "forceUp": false,
+  "whatIsNew": [
+    "✦ تم فتح مزايا البريميوم",
+    "✗ حذف جميع الاعلانات",
+    "⌘ اضافة التحميل من داخل التطبيق",
+    "✓ بعد اكتمل التحميل اذهب الى مجلد التنزيلات وقم بتثبيت التحديث"
   ],
-  "trial": {
-    "enabled": true,
-    "text": "🔮 60H اخفاء",
-    "minutes": 60
-  },
-  "update": {
-    "text": "🔺تحديث الان",
-    "url": "https://play.google.com/store/apps/details?id=com.example"
-  },
-  "colors": {
-    "bgStart": "#0A0F1E",
-    "bgEnd": "#1E293B",
-    "border": "#3B82F6",
-    "accent": "#06B6D4",
-    "highlight": "#A855F7",
-    "muted": "#64748B",
-    "divider": "#334155",
-    "textPrimary": "#E0F2FE",
-    "textSecondary": "#93C5FD",
-    "buttonTrial": "#475569",
-    "buttonUpdate": "#2563EB"
-  }
+  "apkUrl": "https://www.dropbox.com/scl/fi/xdt60i7ysf0tmn87h6wzq/Lark-Player6.19.6.apk?rlkey=8nswguasahfvrkp14462dwtwx&st=ghnms61n&dl=1"
 }
